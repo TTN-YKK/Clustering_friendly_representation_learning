@@ -1,0 +1,74 @@
+License tex copyright (c) 2021 Toshiba Corporation, All Rights Reserved.
+
+Parameters
+
+Paper Submitted by TOSHIBA:
+  @article{tao2021idfd,
+  title = {Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation},
+  author = {Yaling Tao, Kentaro Takagi, Kouta Nakata},
+  year = {2021},
+  journal = {Proceedings of ICLR 2021},
+  url = {https://openreview.net/forum?id=e12NDM7wkEY}
+  }
+
+Licensed Materials:
+  The sample software programs which is smoothing loss function by convolving with gradient noise.
+  It is the supplementary material of the Paper Submitted by TOSHIBA.
+
+
+
+Evaluation Software License Agreement
+ 
+This evaluation software license agreement (“Agreement”) is a legal agreement
+between you and Toshiba Corporation (“TOSHIBA”). In this Agreement “you” means
+you personally if you will exercise the rights granted for your own benefit,
+but it means your company (or you on behalf of your company) if you will exercise
+the rights granted for your company’s benefit. The Licensed Materials will be available
+under this Agreement.
+
+
+1. License Grant.
+ 
+a. License Grant.
+ 
+Subject to the terms of this Agreement, TOSHIBA hereby grants to you, nontransferable,
+non-exclusive, non-assignable, non-sublicensable, fully paid-up, royalty-free,
+license to use, make copies, prepare derivative works, developing object and
+executable versions the Licensed Materials or any derivative thereof for solely
+testing and evaluation purposes of verifying reliability on the newly disclosed
+algorithm in the Paper Submitted by TOSHIBA.
+ 
+b. Restrictions.
+
+NO OTHER LICENSE, EXPRESS OR IMPLIED, IS GRANTED HEREIN. ESPECILLY THIS AGREEMENT
+DOES NOT CONVEY ANY LICENSE TO USE THE LICENSED MATERIALS IN PRODUCTION, OR TO
+DISTRIBUTE THE LICENSED MATERIALS TO ANY THIRD PARTY. YOU ARE REQUIRED TO EXECUTE
+A SEPARATE LICENSE AGREEMENT WITH TOSHIBA BEFORE MANUFACTURING OR DISTRIBUTING THE
+LICENSED MATERIALS OR ANY PRODUCTS THAT CONTAIN THE LICENSED MATERIALS.
+
+
+2. Property Notice.
+ 
+You shall not remove copyright or other proprietary notice or other identifying
+marks from any component of the Licensed Materials and you shall reproduce and
+include in all copies of the Licensed Materials such notice or marks as they
+appear in the Licensed Materials.
+
+
+3. No Warranties, Disclaimer and No Indemnification.
+
+THE LICENSED MATERIALS ARE PROVIDED “AS IS”. TOSHIBA MAKE NO WARRANTY OR
+REPRESENTATION, EITHER EXPRESS, IMPLIED OR STATUTORY, REGARDING THE LICENSED
+MATERIALS, INCLUDING BUT NOT LIMITED TO, MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE OR NON-INFRINGEMENT.
+
+YOU ACKNOWLEDGE AND AGREE THAT TOSHIBA SHALL NOT BE LIABLE FOR AND SHALL NOT
+DEFEND OR INDEMNIFY YOU AGAINST ANY THIRD PARTY’ S CLAIM, ANY SPECIAL, INDIRECT,
+INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED, ON ANY THEORY
+OF LIABILITY, THAT RELATES TO OR IS BASED ON YOUR USE OF THE LICENSED MATERIALS.
+
+
+4. Governing Law.
+
+This Agreement will be governed by and interpreted in accordance with the
+laws of Japan, without reference to conflict of laws principles.

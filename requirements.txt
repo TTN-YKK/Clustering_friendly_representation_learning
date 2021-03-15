@@ -1,0 +1,3 @@
+tqdm>=4.43
+scikit-learni>=0.21
+torch>=1.1
